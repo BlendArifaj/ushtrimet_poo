@@ -1,7 +1,7 @@
 /*
     Te shkruhet programi i cili i menaxhon notat e studenteve ne nje liste.
     Studenti ka vecorite: Emri, Mbiemri, Id, Drejtimi, Notat
-    Nota ka vecorite: Id, Lenda, Nota (vlera 5 - 10)
+    Nota ka vecorite: Id, Lenda (String), Nota (int - vlera 5 - 10)
     Programi duhet te na mundesoj qe:
         - Te shfaqim studentat ne ekran, se bashku me noten mesatare
             - Te shfaqim notat e nje studenti se bashku me lendet perkatese
